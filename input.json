@@ -1,0 +1,18 @@
+{
+  "test_bool_1": {"BOOL": " True "},
+  "test_number_1": {"N": " -0150 "},
+  "test_null_1": {"NULL": "true"},
+  "string_1": {"S": "784498 "},
+  "string_2": {"S": "2014-07-16T20:55:46Z"},
+  "map_1": {"M": {
+    "bool_1": {"BOOL": "truthy"},
+    "null_1": {"NULL ": "true"},
+    "list_1": {"L": [
+      {"S": ""},
+      {"N": "011"},
+      {"N": "5215s"},
+      {"BOOL": "f"},
+      {"NULL": "0"}
+    ]}
+  }}
+}
